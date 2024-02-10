@@ -1,0 +1,2 @@
+# kintone_subtable_dropdown_connect
+kintoneサブテーブルドロップダウン連動
